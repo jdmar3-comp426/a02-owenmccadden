@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/jdmar3-comp426/a02-owenmccadden#readme",
   "dependencies": {
-    "browsersync": "0.0.1-security"
+    "browser-sync": "^2.27.5",
+    "browsersync": "0.0.1-security",
+    "bulma": "^0.9.3"
   }
 }
