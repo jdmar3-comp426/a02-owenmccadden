@@ -1,0 +1,24 @@
+{
+  "name": "a02-owenmccadden",
+  "version": "1.0.0",
+  "description": "Comp 426 assignment 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://owenmccadden:a2e04610600c43cbe464e518eac24fe5742ec79a@github.com/jdmar3-comp426/a02-owenmccadden.git"
+  },
+  "author": "Owen McCadden",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-owenmccadden/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-owenmccadden#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5",
+    "browsersync": "0.0.1-security",
+    "bulma": "^0.9.3"
+  }
+}
